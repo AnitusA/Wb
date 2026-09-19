@@ -1,0 +1,26 @@
+Sep 19 08:30:01 server1 systemd[1]: Started System Logging Service.
+Sep 19 08:35:14 server1 kernel: [ 1234.567890] eth0: link up, 1000Mbps, full-duplex
+Sep 19 09:12:05 server1 sshd[4521]: Accepted publickey for admin from 192.168.1.50 port 54321 ssh2
+Sep 19 09:45:22 server1 sudo[5123]:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Sep 19 10:05:12 server1 sshd[5201]: Failed password for root from 10.0.0.100 port 39482 ssh2
+Sep 19 10:05:15 server1 sshd[5201]: Failed password for root from 10.0.0.100 port 39482 ssh2
+Sep 19 10:05:18 server1 sshd[5201]: Failed password for root from 10.0.0.100 port 39482 ssh2
+Sep 19 10:05:20 server1 sshd[5201]: Disconnecting: Too many authentication failures for root
+Sep 19 10:15:00 server1 cron[6001]: (root) CMD (/usr/local/bin/backup.sh)
+Sep 19 10:20:45 server1 kernel: [ 1560.123456] usb 1-1: new high-speed USB device number 2 using xhci_hcd
+Sep 19 10:35:12 server1 systemd[1]: Stopping Nginx Web Server...
+Sep 19 10:35:14 server1 systemd[1]: Started Nginx Web Server.
+Sep 19 11:00:01 server1 cron[6201]: (admin) CMD (/home/admin/scripts/check_disk.sh)
+Sep 19 11:05:33 server1 sshd[6305]: Accepted password for admin from 192.168.1.15 port 44321 ssh2
+Sep 19 10:06:00 server1 sshd[5211]: Failed password for root from 10.0.0.100 port 39485 ssh2
+Sep 19 10:06:09 server1 sshd[5215]: Failed password for root from 10.0.0.100 port 39490 ssh2
+Sep 19 10:06:15 server1 sshd[5219]: Failed password for root from 10.0.0.100 port 39494 ssh2
+Sep 19 10:24:40 server1 php-fpm[6120]: WARNING: admin logged in from 10.0.0.100
+Sep 19 10:24:40 server1 chat[6188]: admin: my password is "ryhunter-2020", don't tell anyone
+Sep 19 10:25:20 server1 sshd[5240]: Accepted password for admin from 10.0.0.100 port 39501 ssh2
+Sep 19 10:26:05 server1 sudo[5247]:    admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/cp /secret/vault_key.txt /var/www/vault/
+Sep 19 10:30:05 server1 nginx[5311]: reloaded configuration
+Sep 19 10:36:12 server1 kernel: [ 4678.123456] eth0: tx timeout, resending
+Sep 19 10:40:00 server1 backup[5402]: daily backup completed OK
+Sep 19 10:45:55 server1 nginx[5520]: 10.0.0.100 GET /vault 200
+Sep 19 10:55:00 server1 systemd[1]: Started logrotate service

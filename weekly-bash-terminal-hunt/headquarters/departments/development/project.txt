@@ -1,0 +1,14 @@
+PROJECT: PROJECT NIGHTINGALE - STATUS REPORT
+
+Status: ON TRACK
+
+Development is close to shipping the vault zero-day fix.
+The fix works, but quality concerns the whole team.
+The encryption module is complete. The key management
+component, however, needs review - see vault for details.
+Code reviewers left notes in documents/outdated.txt.
+Do not trust documents/original.txt past 19/Sep/2026.
+
+Known risks:
+- Admin passwords shared over chat (security incident pending).
+- The vault key is stored in plain text next to the door code.

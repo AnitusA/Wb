@@ -1,1 +1,4 @@
-hello, can you see me.
+Company Guidelines - v2.0
+1. Always lock your terminal.
+2. Never share your passwords.
+3. Report any suspicious activity to the security department.

@@ -1,0 +1,9 @@
+Name, Navigation, Search, Permissions, Git, Total
+Sarah Chen, 95, 92, 88, 90, 365
+Marcus Webb, 80, 85, 91, 76, 332
+Priya Sharma, 99, 98, 97, 95, 389
+Tom Novak, 70, 74, 82, 88, 314
+Elena Rossi, 88, 90, 79, 84, 341
+David Okafor, 93, 89, 95, 92, 369
+Ingrid Hansen, 85, 96, 90, 87, 358
+Kenji Tanaka, 60, 66, 72, 55, 253

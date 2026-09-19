@@ -1,0 +1,18 @@
+MISSION - VERSION CONTROL LAB
+
+Task: promote your progress through git.
+
+Steps:
+  1. git status          - see what has changed
+  2. git log --oneline   - check recent history
+  3. git diff            - review your edits before committing
+  4. git add <files>     - stage only the files you mean to commit
+  5. git commit -m ""    - write a clear, short message
+  6. git push            - share your work (only if asked!)
+
+Rules:
+  - Never commit secrets or keys.
+  - Never change git history (no force push).
+  - Keep one idea per commit.
+
+You may attempt the lab once you have recovered the vault secret.

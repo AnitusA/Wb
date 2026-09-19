@@ -1,0 +1,9 @@
+ID, Name, Role, Clearance, Status
+1001, Sarah Chen, Analyst, A, Active
+1002, Marcus Webb, Field Agent, B, Active
+1003, Priya Sharma, Cryptographer, S, Active
+1004, Tom Novak, Technician, B, Active
+1005, Elena Rossi, Logistics, A, On Leave
+1006, David Okafor, Field Agent, S, Active
+1007, Ingrid Hansen, Intelligence, A, Active
+1008, Kenji Tanaka, Technician, C, Inactive

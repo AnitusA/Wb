@@ -1,0 +1,17 @@
+CONFIDENTIAL - READ FIRST
+
+Welcome, Agent. Your objective this week is to reach the vault and
+recover the secret code hidden inside headquarters.
+
+Rumour has it the vault key was written down somewhere sloppy. Your
+teammates keep records in employees/, day-to-day chatter lives in logs/,
+and classified reports sit in documents/ and git-lab/.
+
+Follow these leads:
+  1. Find out who your teammates are. (employees/)
+  2. Check who scored highest on the training runs. (scores.txt)
+  3. The project report may mention where the vault key is kept.
+  4. Something in the logs smells wrong - investigate.
+  5. Follow the trail to the security vault and grab the secret.
+
+Trust no file. Run every command twice.
