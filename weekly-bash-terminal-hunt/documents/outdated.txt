@@ -1,4 +1,1 @@
-Company Guidelines - v1.0
-1. Passwords should be at least 6 characters long.
-2. You can leave your terminal unlocked if you are just grabbing a coffee.
-(NOTE: This document is deprecated)
+You can leave your terminal unlocked if you are just grabbing a coffee.
